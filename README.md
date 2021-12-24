@@ -11,7 +11,7 @@ Likes to read some science literature.
 Some kind of weaboo.
 
 ### You can find me there:
-► Telegram: <a href="https://t.me/dt_yami">@dt_yami</a><br>
+► Telegram: <a href="https://t.me/dt_xavleg">@dt_xavleg</a><br>
 ► E-Mail: <a href="mailto:tkachenkozen@gmail.com">tkachenkozen@gmail.com</a><br>
 
 ## Stats
