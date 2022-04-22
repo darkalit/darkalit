@@ -3,9 +3,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/darkalit/darkalit)](https://github.com/darkalit)
 [![Repos Badge](https://badges.pufler.dev/repos/darkalit)](https://github.com/darkalit?tab=repositories)
 
-A 17 years old student, studying **Software Engineering** (1st grade) at **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>**.
+A 18 years old student, studying **Software Engineering** (1st grade) at **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>**.
 
-### 👀![](https://img.shields.io/badge/C%2B%2B-6%20months-blue)
+### 👀![](https://img.shields.io/badge/C%2B%2B-8%20months-blue)
 I'm fond of playing and developing digital games. 
 Likes to read some science literature. 
 Some kind of weaboo.
