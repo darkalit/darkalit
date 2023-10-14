@@ -1,5 +1,4 @@
 [![Danyil's GitHub Banner](./GitHubBanner.png)](https://github.com/darkalit)
-A 18 years old student, studying **Software Engineering** (2nd grade) at **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>**.
 
 ### 👀
 I'm fond of playing and developing digital games. 
